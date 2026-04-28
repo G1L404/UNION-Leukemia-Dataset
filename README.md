@@ -19,13 +19,28 @@ Abaixo, fornecemos a listagem completa de todas as fontes. Os investigadores int
 
 ## 📊 Composição do Macro-Dataset
 
-| Nome da Base Original | Autores / Instituição | Quantidade de Amostras | Referencia (Link) |
-| :--- | :--- | :---: | :--- |
-| **ALL-IDB** | Labati et al. (Universidade de Milão) | [Inserir Número] | [Aceder ao Dataset](http://link-para-all-idb.com) |
-| **C-NMC (ISBI 2019)** | Gupta et al. | [Inserir Número] | [Aceder ao Dataset](http://link-para-cnmc.com) |
-| **[Nome da Base 3]** | [Autor ou Instituição] | [Inserir Número] | [Aceder ao Dataset](http://link...) |
-| *(...adicionar as restantes até completar as 17)* | | | |
+O UNION é composto por 17 partições provenientes de bases públicas independentes, totalizando 3.157 amostras. Abaixo encontra-se o detalhamento quantitativo e as referências para acesso aos dados originais:
 
+| Nome da Base Original | Autores / Instituição | Quantidade de Amostras | Referência (Link) |
+| :--- | :--- | :---: | :--- |
+| **ALL-IDB1 (Crop)** | Labati et al. (Universidade de Milão) | 510 | [Aceder ao Dataset]([Inserir Link]) |
+| **ALL-IDB1** | Labati et al. (Universidade de Milão) | 108 | [Aceder ao Dataset]([Inserir Link]) |
+| **ALL-IDB2** | Labati et al. (Universidade de Milão) | 260 | [Aceder ao Dataset]([Inserir Link]) |
+| **CellaVision2** | CellaVision / [Inserir Autores] | 100 | [Aceder ao Dataset]([Inserir Link]) |
+| **CELAVISION** | CellaVision / [Inserir Autores] | 109 | [Aceder ao Dataset]([Inserir Link]) |
+| **ATLAS** | Atlas of Hematology | 65 | [Aceder ao Dataset]([Inserir Link]) |
+| **Omid et al. 2014** | Omid et al. | 154 | [Aceder ao Dataset]([Inserir Link]) |
+| **Omid et al. 2015** | Omid et al. | 27 | [Aceder ao Dataset]([Inserir Link]) |
+| **ASH-OK** | ASH Image Bank | 96 | [Aceder ao Dataset]([Inserir Link]) |
+| **Bloodline** | Bloodline Image Atlas | 204 | [Aceder ao Dataset]([Inserir Link]) |
+| **ONKODIN** | Onkodin Image Base | 78 | [Aceder ao Dataset]([Inserir Link]) |
+| **JTSC** | [Inserir Autores/Instituição] | 300 | [Aceder ao Dataset]([Inserir Link]) |
+| **UFG** | Universidade Federal de Goiás (UFG) | 93 | [Aceder ao Dataset]([Inserir Link]) |
+| **SN-AM** | [Inserir Autores/Instituição] | 30 | [Aceder ao Dataset]([Inserir Link]) |
+| **MIDB Dataset** | [Inserir Autores/Instituição] | 498 | [Aceder ao Dataset]([Inserir Link]) |
+| **LISC Dataset** | Rezatofighi et al. | 376 | [Aceder ao Dataset]([Inserir Link]) |
+| **Leukocytes** | [Inserir Autores/Instituição] | 149 | [Aceder ao Dataset]([Inserir Link]) |
+| **TOTAL GERAL** | - | **3.157** | - |
 > **Dica para reprodução:** Após transferir todas as bases acima, recomendamos a aplicação da padronização de nomenclatura e o redimensionamento dinâmico descritos na secção de pré-processamento do nosso artigo.
 
 ## ✒️ Como Citar
