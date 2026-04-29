@@ -23,23 +23,23 @@ O UNION é composto por 17 partições provenientes de bases públicas independe
 
 | Nome da Base Original | Autores / Instituição | Quantidade de Amostras | Referência (Link) |
 | :--- | :--- | :---: | :--- |
-| **ALL-IDB1 (Crop)** | Labati et al. (Universidade de Milão) | 510 | [Aceder ao Dataset]([Inserir Link]) |
-| **ALL-IDB1** | Labati et al. (Universidade de Milão) | 108 | [Aceder ao Dataset]([Inserir Link]) |
-| **ALL-IDB2** | Labati et al. (Universidade de Milão) | 260 | [Aceder ao Dataset]([Inserir Link]) |
-| **CellaVision2** | CellaVision / [Inserir Autores] | 100 | [Aceder ao Dataset]([Inserir Link]) |
-| **CELAVISION** | CellaVision / [Inserir Autores] | 109 | [Aceder ao Dataset]([Inserir Link]) |
-| **ATLAS** | Atlas of Hematology | 65 | [Aceder ao Dataset]([Inserir Link]) |
-| **Omid et al. 2014** | Omid et al. | 154 | [Aceder ao Dataset]([Inserir Link]) |
-| **Omid et al. 2015** | Omid et al. | 27 | [Aceder ao Dataset]([Inserir Link]) |
-| **ASH-OK** | ASH Image Bank | 96 | [Aceder ao Dataset]([Inserir Link]) |
-| **Bloodline** | Bloodline Image Atlas | 204 | [Aceder ao Dataset]([Inserir Link]) |
-| **ONKODIN** | Onkodin Image Base | 78 | [Aceder ao Dataset]([Inserir Link]) |
-| **JTSC** | [Inserir Autores/Instituição] | 300 | [Aceder ao Dataset]([Inserir Link]) |
-| **UFG** | Universidade Federal de Goiás (UFG) | 93 | [Aceder ao Dataset]([Inserir Link]) |
-| **SN-AM** | [Inserir Autores/Instituição] | 30 | [Aceder ao Dataset]([Inserir Link]) |
-| **MIDB Dataset** | [Inserir Autores/Instituição] | 498 | [Aceder ao Dataset]([Inserir Link]) |
-| **LISC Dataset** | Rezatofighi et al. | 376 | [Aceder ao Dataset]([Inserir Link]) |
-| **Leukocytes** | [Inserir Autores/Instituição] | 149 | [Aceder ao Dataset]([Inserir Link]) |
+| **ALL-IDB1 (Crop)** | Labati et al. (Universidade de Milão) | 510 | [Aceder ao Dataset]([https://scotti.di.unimi.it/all/]) |
+| **ALL-IDB1** | Labati et al. (Universidade de Milão) | 108 | [Aceder ao Dataset]([https://scotti.di.unimi.it/all/]) |
+| **ALL-IDB2** | Labati et al. (Universidade de Milão) | 260 | [Aceder ao Dataset]([https://scotti.di.unimi.it/all/]) |
+| **CellaVision2** | ZHENG et al.| 100 | [Aceder ao Artigo]([https://www.researchgate.net/publication/322872863_Fast_and_Robust_Segmentation_of_White_Blood_Cell_Images_by_Self-supervised_Learning]) |
+| **CELAVISION** | ROLLINS-RAVAL et al. | 109 | [Aceder ao Artigo]([https://pubmed.ncbi.nlm.nih.gov/23024888/]) |
+| **ATLAS** | Atlas of Hematology | 65 | [Aceder ao Dataset]([https://www.kaggle.com/datasets/bzhbzh35/peripheral-blood-cell]) |
+| **Omid et al. 2014** | Omid et al. | 154 | [Aceder ao Artigo]([https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9041/90410P/Selection-of-the-best-features-for-leukocytes-classification-in-blood/10.1117/12.2043605.short]) |
+| **Omid et al. 2015** | Omid et al. | 27 | [Aceder ao Artigo]([https://ieeexplore.ieee.org/document/7351422]) |
+| **ASH-OK** | ASH Image Bank | 96 | [Aceder ao Dataset]([https://imagebank.hematology.org/]) |
+| **Bloodline** | Vale et al. | 204 | [Aceder ao Dataset]([https://www.scielo.br/j/rbeb/a/gbD3XhfwS964ympR6J3Bz8B/?format=html&lang=en]) |
+| **ONKODIN** | Onkodin Image Base | 78 | [Aceder ao Artigo]([https://www.researchgate.net/publication/278715598_Pathologie-Websites_im_World_Wide_Web]) |
+| **JTSC** | ZHENG et al. | 300 | [Aceder ao Artigo]([https://www.researchgate.net/publication/322872863_Fast_and_Robust_Segmentation_of_White_Blood_Cell_Images_by_Self-supervised_Learning]) |
+| **UFG** | Universidade Federal de Goiás (UFG) | 93 | [Aceder ao Dataset]([https://hematologia.farmacia.ufg.br/]) |
+| **SN-AM** | GUPTA et al. | 30 | [Aceder ao Dataset]([https://www.cancerimagingarchive.net/collection/sn-am/]) |
+| **MIDB Dataset** | National Kyushu Cancer Center | 498 | [Aceder ao Dataset]([http://www.midb.jp/blood_db/db.php?lang=en]) |
+| **LISC Dataset** | Rezatofighi et al. | 376 | [Aceder ao Artigo]([https://pubmed.ncbi.nlm.nih.gov/21300521/]) |
+| **Leukocytes** | SARRAFZADEH et al. | 149 | [Aceder ao Artigo]([https://pmc.ncbi.nlm.nih.gov/articles/PMC4617159/]) |
 | **TOTAL GERAL** | - | **3.157** | - |
 > **Dica para reprodução:** Após transferir todas as bases acima, recomendamos a aplicação da padronização de nomenclatura e o redimensionamento dinâmico descritos na secção de pré-processamento do nosso artigo.
 
