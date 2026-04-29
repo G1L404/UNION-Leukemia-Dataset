@@ -15,11 +15,11 @@ Para avaliar a robustez de modelos de Inteligência Artificial perante esta hete
 
 Por questões de licenciamento, direitos de autor e restrições de redistribuição impostas pelas instituições criadoras de cada *dataset* original, **não disponibilizamos os ficheiros de imagem diretamente neste repositório**. 
 
-Abaixo, fornecemos a listagem completa de todas as fontes. Os investigadores interessados em reproduzir os nossos resultados ou utilizar o UNION devem aceder às ligações oficiais para transferir os dados originais.
+Abaixo, fornecemos a listagem completa de todas as fontes. Os investigadores interessados em reproduzir os nossos resultados ou utilizar o UNION devem aceder às ligações oficiais para transferir os dados ou consultar a literatura de referência original.
 
 ## 📊 Composição do Macro-Dataset
 
-O UNION é composto por 17 partições provenientes de bases públicas independentes, totalizando 3.157 amostras. Abaixo encontra-se o detalhamento quantitativo e as referências para acesso aos dados originais:
+O UNION é composto por 17 partições provenientes de bases públicas independentes, totalizando 3.157 amostras. Abaixo encontra-se o detalhamento quantitativo e as referências utilizadas para compor a nossa base:
 
 | Nome da Base Original | Autores / Instituição | Quantidade de Amostras | Referência (Link) |
 | :--- | :--- | :---: | :--- |
@@ -32,7 +32,7 @@ O UNION é composto por 17 partições provenientes de bases públicas independe
 | **Omid et al. 2014** | Sarrafzadeh et al. | 154 | [Aceder ao Artigo](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9041/90410P/Selection-of-the-best-features-for-leukocytes-classification-in-blood/10.1117/12.2043605.short) |
 | **Omid et al. 2015** | Sarrafzadeh et al. | 27 | [Aceder ao Artigo](https://ieeexplore.ieee.org/document/7351422) |
 | **ASH-OK** | ASH Image Bank | 96 | [Aceder ao Dataset](https://imagebank.hematology.org/) |
-| **Bloodline** | Vale et al. | 204 | [Aceder ao Dataset](https://www.scielo.br/j/rbeb/a/gbD3XhfwS964ympR6J3Bz8B/?format=html&lang=en) |
+| **Bloodline** | Vale et al. | 204 | [Aceder ao Artigo](https://www.scielo.br/j/rbeb/a/gbD3XhfwS964ympR6J3Bz8B/?format=html&lang=en) |
 | **ONKODIN** | Onkodin Image Base | 78 | [Aceder ao Artigo](https://www.researchgate.net/publication/278715598_Pathologie-Websites_im_World_Wide_Web) |
 | **JTSC** | Zheng et al. | 300 | [Aceder ao Artigo](https://www.researchgate.net/publication/322872863_Fast_and_Robust_Segmentation_of_White_Blood_Cell_Images_by_Self-supervised_Learning) |
 | **UFG** | Universidade Federal de Goiás (UFG) | 93 | [Aceder ao Dataset](https://hematologia.farmacia.ufg.br/) |
