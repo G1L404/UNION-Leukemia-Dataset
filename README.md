@@ -23,24 +23,25 @@ O UNION é composto por 17 partições provenientes de bases públicas independe
 
 | Nome da Base Original | Autores / Instituição | Quantidade de Amostras | Referência (Link) |
 | :--- | :--- | :---: | :--- |
-| **ALL-IDB1 (Crop)** | Labati et al. (Universidade de Milão) | 510 | [Aceder ao Dataset]([https://scotti.di.unimi.it/all/]) |
-| **ALL-IDB1** | Labati et al. (Universidade de Milão) | 108 | [Aceder ao Dataset]([https://scotti.di.unimi.it/all/]) |
-| **ALL-IDB2** | Labati et al. (Universidade de Milão) | 260 | [Aceder ao Dataset]([https://scotti.di.unimi.it/all/]) |
-| **CellaVision2** | ZHENG et al.| 100 | [Aceder ao Artigo]([https://www.researchgate.net/publication/322872863_Fast_and_Robust_Segmentation_of_White_Blood_Cell_Images_by_Self-supervised_Learning]) |
-| **CELAVISION** | ROLLINS-RAVAL et al. | 109 | [Aceder ao Artigo]([https://pubmed.ncbi.nlm.nih.gov/23024888/]) |
-| **ATLAS** | Atlas of Hematology | 65 | [Aceder ao Dataset]([https://www.kaggle.com/datasets/bzhbzh35/peripheral-blood-cell]) |
-| **Omid et al. 2014** | Omid et al. | 154 | [Aceder ao Artigo]([https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9041/90410P/Selection-of-the-best-features-for-leukocytes-classification-in-blood/10.1117/12.2043605.short]) |
-| **Omid et al. 2015** | Omid et al. | 27 | [Aceder ao Artigo]([https://ieeexplore.ieee.org/document/7351422]) |
-| **ASH-OK** | ASH Image Bank | 96 | [Aceder ao Dataset]([https://imagebank.hematology.org/]) |
-| **Bloodline** | Vale et al. | 204 | [Aceder ao Dataset]([https://www.scielo.br/j/rbeb/a/gbD3XhfwS964ympR6J3Bz8B/?format=html&lang=en]) |
-| **ONKODIN** | Onkodin Image Base | 78 | [Aceder ao Artigo]([https://www.researchgate.net/publication/278715598_Pathologie-Websites_im_World_Wide_Web]) |
-| **JTSC** | ZHENG et al. | 300 | [Aceder ao Artigo]([https://www.researchgate.net/publication/322872863_Fast_and_Robust_Segmentation_of_White_Blood_Cell_Images_by_Self-supervised_Learning]) |
-| **UFG** | Universidade Federal de Goiás (UFG) | 93 | [Aceder ao Dataset]([https://hematologia.farmacia.ufg.br/]) |
-| **SN-AM** | GUPTA et al. | 30 | [Aceder ao Dataset]([https://www.cancerimagingarchive.net/collection/sn-am/]) |
-| **MIDB Dataset** | National Kyushu Cancer Center | 498 | [Aceder ao Dataset]([http://www.midb.jp/blood_db/db.php?lang=en]) |
-| **LISC Dataset** | Rezatofighi et al. | 376 | [Aceder ao Artigo]([https://pubmed.ncbi.nlm.nih.gov/21300521/]) |
-| **Leukocytes** | SARRAFZADEH et al. | 149 | [Aceder ao Artigo]([https://pmc.ncbi.nlm.nih.gov/articles/PMC4617159/]) |
+| **ALL-IDB1 (Crop)** | Labati et al. (Universidade de Milão) | 510 | [Aceder ao Dataset](https://scotti.di.unimi.it/all/) |
+| **ALL-IDB1** | Labati et al. (Universidade de Milão) | 108 | [Aceder ao Dataset](https://scotti.di.unimi.it/all/) |
+| **ALL-IDB2** | Labati et al. (Universidade de Milão) | 260 | [Aceder ao Dataset](https://scotti.di.unimi.it/all/) |
+| **CellaVision2** | Zheng et al. | 100 | [Aceder ao Artigo](https://www.researchgate.net/publication/322872863_Fast_and_Robust_Segmentation_of_White_Blood_Cell_Images_by_Self-supervised_Learning) |
+| **CELAVISION** | Rollins-Raval et al. | 109 | [Aceder ao Artigo](https://pubmed.ncbi.nlm.nih.gov/23024888/) |
+| **ATLAS** | Atlas of Hematology | 65 | [Aceder ao Dataset](https://www.kaggle.com/datasets/bzhbzh35/peripheral-blood-cell) |
+| **Omid et al. 2014** | Sarrafzadeh et al. | 154 | [Aceder ao Artigo](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9041/90410P/Selection-of-the-best-features-for-leukocytes-classification-in-blood/10.1117/12.2043605.short) |
+| **Omid et al. 2015** | Sarrafzadeh et al. | 27 | [Aceder ao Artigo](https://ieeexplore.ieee.org/document/7351422) |
+| **ASH-OK** | ASH Image Bank | 96 | [Aceder ao Dataset](https://imagebank.hematology.org/) |
+| **Bloodline** | Vale et al. | 204 | [Aceder ao Dataset](https://www.scielo.br/j/rbeb/a/gbD3XhfwS964ympR6J3Bz8B/?format=html&lang=en) |
+| **ONKODIN** | Onkodin Image Base | 78 | [Aceder ao Artigo](https://www.researchgate.net/publication/278715598_Pathologie-Websites_im_World_Wide_Web) |
+| **JTSC** | Zheng et al. | 300 | [Aceder ao Artigo](https://www.researchgate.net/publication/322872863_Fast_and_Robust_Segmentation_of_White_Blood_Cell_Images_by_Self-supervised_Learning) |
+| **UFG** | Universidade Federal de Goiás (UFG) | 93 | [Aceder ao Dataset](https://hematologia.farmacia.ufg.br/) |
+| **SN-AM** | Gupta et al. | 30 | [Aceder ao Dataset](https://www.cancerimagingarchive.net/collection/sn-am/) |
+| **MIDB Dataset** | National Kyushu Cancer Center | 498 | [Aceder ao Dataset](http://www.midb.jp/blood_db/db.php?lang=en) |
+| **LISC Dataset** | Rezatofighi et al. | 376 | [Aceder ao Artigo](https://pubmed.ncbi.nlm.nih.gov/21300521/) |
+| **Leukocytes** | Sarrafzadeh et al. | 149 | [Aceder ao Artigo](https://pmc.ncbi.nlm.nih.gov/articles/PMC4617159/) |
 | **TOTAL GERAL** | - | **3.157** | - |
+
 > **Dica para reprodução:** Após transferir todas as bases acima, recomendamos a aplicação da padronização de nomenclatura e o redimensionamento dinâmico descritos na secção de pré-processamento do nosso artigo.
 
 ## ✒️ Como Citar
